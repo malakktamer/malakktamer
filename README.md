@@ -61,9 +61,9 @@
 [//]: # ()
 [//]: # (<p align="center">)
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=malak._.tamer&show_icons=true&theme=tokyonight" height="165">)
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=mvlvk._.tamer&show_icons=true&theme=tokyonight" height="165">)
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak._.tamer&layout=compact&theme=tokyonight" height="165">)
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvlvk._.tamer&layout=compact&theme=tokyonight" height="165">)
 
 [//]: # (</p>)
 
@@ -77,7 +77,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Malak%20STamer-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://www.instagram.com/mvlvk._.tamer/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-malak._.tamer-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-mvlvk._.tamer-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:tamermalak838@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-tamermalak838@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
