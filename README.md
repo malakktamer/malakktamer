@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="malokty.jpeg" alt="Malak Tamer" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="img.jpeg" alt="Malak Tamer" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
 <p align="center">
